@@ -31,7 +31,7 @@ I am Adarsh kr Tiwari, a web enthusiast from New delhi , deeply in love with cod
 - **☎️ Contact:** Connect with me for collaborations, inquiries, or discussions.
 
 ### Live Demo 🎉
-Explore the live version of this Portfolio [here](https://www.fazle-rabbi-dev.vercel.app?source=portfolio_repo).
+Explore the live version of this Portfolio [here](https://updated-cv-three.vercel.app/?source=portfolio_repo).
 
 ### 📬 Connect with me
 > Let's connect! Reach out for collaborations, projects, or just a friendly chat.
