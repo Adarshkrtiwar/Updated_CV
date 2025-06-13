@@ -1,10 +1,10 @@
 export const site_metadata = {
-  title: "Fazle Rabbi - Web Developer",
+  title: "Adarsh Tiwari - Software Developer",
   desc: "I am Adarsh , a highly dedicated and skilled Web and Mobile application developer deeply in love with coding. Connect with Adarsh  Dev for collaborations, projects, and discussions.",
   keywords: "Adarsh  dev,  Adarsh  web dev,Adarsh  mia, web developer, Adarsh web developer, mern stack developer, Adarsh  mern dev",
   author: "Adarsh kr Tiwari",
   theme: "#f8f8f8",
-  hostname: "https://fazle-rabbi-dev.vercel.app",
+  hostname: "https://updated-cv-three.vercel.app/",
   home: {
     title: "Adarsh - MERN Stack Web Developer",
     desc: "I am Adarsh  a Passionate MERN Stack Web Developer from New Delhi. Transforming ideas into web applications. Building Full Stack Projects. Bringing life to designs through lines of code. Connect with Adarsh  Dev for collaborations, projects, and discussions.",

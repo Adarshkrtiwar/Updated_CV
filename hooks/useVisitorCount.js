@@ -13,7 +13,7 @@ export const useVisitorCount = (page = "", param = "") => {
   };
 
   useEffect(() => {
-    if (!param.includes("?visitor=rabbi")) {
+    if (!param.includes("?visitor=Tiwari")) {
       const queryParam = new URLSearchParams(param.slice(1));
       const source = queryParam.get("source");
       trackVisitor(source);

@@ -35,7 +35,7 @@ export default function App({ Component, pageProps }) {
         <meta property="twitter:description" content={site_metadata?.desc} />
         <meta property="twitter:image" content="https://github-production-user-asset-6210df.s3.amazonaws.com/71178740/303817713-4fa00d97-1954-4aac-8a7a-6cb5d2a15176.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T052034Z&X-Amz-Expires=300&X-Amz-Signature=e5b79869eb05255315a84fa790cba0877a831ca96c9a5ed6dc1ed947ba1b96ea&X-Amz-SignedHeaders=host&actor_id=71178740&key_id=0&repo_id=596049547" />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:site" content="@fazle-rabbi-dev" />
+        <meta property="twitter:site" content="@Adarsh_dev" />
         <meta property="twitter:domain" content={site_metadata?.hostname} />
 
         {/*Additional Metadata*/}
