@@ -18,7 +18,7 @@ export default function App({ Component, pageProps }) {
         {/*Metadata for Open Graph and Twitter*/}
         <meta property="og:title" content={site_metadata?.title} />
         <meta property="og:description" content={site_metadata?.desc} />
-        <meta property="og:image" content="https://fazle-rabbi-dev.vercel.app/og-image.png" />
+        <meta property="og:image" content="https://fazle-rabbi-dev.vercel.app/og-image.jpeg" />
 
         <meta name="google-site-verification" content="e2eypPimpfZkOQOEpkZSgIbHZCp1EuaV8O5NPn4zNnc" />
 

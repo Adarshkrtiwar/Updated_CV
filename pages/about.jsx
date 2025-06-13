@@ -17,8 +17,8 @@ const About = () => {
       <div className="">
         {/* Intro */}
         <p className="info dark:bg-transparent dark:p-4 dark:border-l-[.5px] dark:border-teal-400/40 dark:rounded">
-          <Image src="/me.png" width={100} height={100} alt="Fazle Rabbi" />
-          Hello, I'm <span className="font-bold">Fazle Rabbi</span>,
+          <Image src="/images/og-image.jpeg" width={100} height={100} alt="Adarsh Tiwari " />
+          Hello, I'm <span className="font-bold">Adarsh</span>,
           {" "}
           {aboutPageData?.about_1}
           <br />
@@ -63,7 +63,7 @@ const About = () => {
           For my terminal needs, I rely on
           <Link
             target="_blank"
-            href="https://github.com/termux/termux-app"
+            href="https://github.com/Adarshkrtiwar"
             className="link"
           >
             Termux
@@ -71,7 +71,7 @@ const About = () => {
           , and for console functionality, I use{" "}
           <Link
             target="_blank"
-            href="https://github.com/liriliri/eruda"
+            href="https://github.com/Adarshkrtiwar"
             className="link"
           >
             eruda
@@ -93,7 +93,7 @@ const About = () => {
           <span className="gradient_text">Instagram</span>, I embarked on this
           exciting path. My learning journey crystallized through tutorials on
           YouTube, notably from the channel{" "}
-          <span className="gradient_text">Anisul Islam</span>, and various other
+          <span className="gradient_text">Lovw Babbar</span>, and various other
           enriching sources. As I honed my skills, I transitioned into a MERN
           stack developer, embracing the power of JavaScript in crafting dynamic
           and robust web applications.

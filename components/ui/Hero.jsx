@@ -33,7 +33,7 @@ export const Hero = () => {
               src={homePageData?.photo?.url || ""}
               width={300}
               height={300}
-              alt={homePageData?.photo?.alt || "Fazle Rabbi"}
+              alt={homePageData?.photo?.alt || "Adarsh Tiwari"}
             />
           </div>
 
@@ -52,8 +52,8 @@ export const Hero = () => {
             </h1>
 
             <p className="my-6 leading-7 font-light">
-              I am Fazle Rabbi a passionate MERN stack{" "}
-              <span className="font-bold">web developer</span> from Bangladesh,
+              I am Adarsh a passionate MERN stack{" "}
+              <span className="font-bold">web developer</span> from New Delhi,
               deeply in love with coding and exploring various tech domains.
             </p>
 

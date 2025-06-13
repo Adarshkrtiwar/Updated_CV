@@ -6,14 +6,14 @@ My personal portfolio website built with Next.js & Tailwind CSS. Explore my proj
 
 ## About Me
 
-I am Fazle Rabbi, a web enthusiast from Bangladesh, deeply in love with coding and transforming ideas into web applications. My expertise lies in the MERN stack, and I'm on a mission to become a modern full stack developer.
+I am Adarsh kr Tiwari, a web enthusiast from New delhi , deeply in love with coding and transforming ideas into web applications. My expertise lies in the MERN stack, and I'm on a mission to become a modern full stack developer.
 
 ## 🔴 Unveiling the Journey of Building This Portfolio
 > [!Note]
 > In my quest to design my portfolio, I faced the challenge of limited design knowledge. After exploring various portfolios for inspiration, I finally crafted mine using Next.js and Tailwind CSS. This journey taught me the importance of perseverance and adaptability, showcasing my commitment to enhancing both coding and design skills in the ever-evolving world of web development.
 
 ### Project Created at
-- 🗓 *Dec 2023 - Jan 2023*
+- 🗓 *Dec 2024 - Jan 2025*
 
 ### Technologies Used 🛠️
 

@@ -2,13 +2,14 @@ import links from "./links"
 
 export const homePageData = {
   photo: {
-    url: "/me.png",
-    alt: "Fazle Rabbi"
-  },
+  url: "/images/og-image.jpeg",
+  alt: "Adarsh"
+},
+
   tagline: "I love to transform ideas into web application.",
   tagline2: "I build web applications to empower businesses",
   intro:
-    "I am a passionate MERN stack web developer from Bangladesh, deeply in love with coding and exploring various tech domains.",
+    "I am a passionate MERN stack web developer from New Delhi, deeply in love with coding and exploring various tech domains.",
   status: [
     "Im currently building Full Stack Projects.",
     "Im on a mission to become a full stack developer.",
@@ -31,5 +32,5 @@ export const homePageData = {
       link: links.github
     }
   ],
-  resumelink: "/fazle-rabbi-resume.pdf"
+  resumelink: "https://drive.google.com/file/d/1g-D5o-r9Q1Tnt6yQiLncvQRvgBv2FgLU/view?usp=drivesdk"
 };

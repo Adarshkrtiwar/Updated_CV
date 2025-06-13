@@ -52,7 +52,7 @@ const Contact = () => {
                 </span>
                 <Link
                   className="alternative_contact"
-                  href="mailto:fazlerabbidev@outlook.com"
+                  href="mailto:adarsh7576061625@gmail.com"
                 >
                   {contactPageData?.alternative?.email}
                 </Link>
@@ -67,7 +67,7 @@ const Contact = () => {
                   href={contactPageData?.alternative?.telegram || ""}
                   target="_blank"
                 >
-                  Fazle Rabbi Dev
+                 Adarsh  Dev
                 </Link>
               </li>
             </ul>

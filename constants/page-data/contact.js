@@ -5,7 +5,7 @@ export const contactPageData = {
   form_title: "Love to hear from you, Get in touch 👋",
   alternative: {
     telegram: links.telegram,
-    email: "fazlerabbidev@outlook.com"
+    email: "adarsh7576061625@gmail.com"
   },
   socials: [
     {

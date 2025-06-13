@@ -42,7 +42,7 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/Slice-Url",
+        github: "https://github.com/Adarshkrtiwar",
         live: "https://slice-url.vercel.app/"
       },
       details: {
@@ -89,7 +89,7 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/spend-sync",
+        github: "https://github.com/Adarshkrtiwar",
         live: "https://speend-sync.vercel.app/"
       },
       details: {
@@ -136,7 +136,7 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/Link-Bridge",
+        github: "https://github.com/Adarshkrtiwar",
         live: "https://linkbridge.vercel.app"
       },
       details: {
@@ -180,8 +180,8 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/rainbownote",
-        live: "https://rainbownote.vercel.app"
+        github: "https://github.com/Adarshkrtiwar",
+        live: "https://latest-ashy.vercel.app/"
       },
       details: {
         title: "Rainbownote",
@@ -219,8 +219,8 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/tech-canvas",
-        live: "https://tech-canvas.vercel.app/"
+        github: "https://github.com/Adarshkrtiwar",
+        live: "https://latest-ashy.vercel.app//"
       },
       details: {
         title: "Tech-Canvas",
@@ -256,8 +256,8 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/fazle-rabbi-dev.vercel.app",
-        live: "https://fazle-rabbi-dev.vercel.app"
+        github: "https://github.com/Adarshkrtiwar",
+        live: "https://latest-ashy.vercel.app/"
       },
       details: {
         title: "Dev-Portfolio",
@@ -295,7 +295,7 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/due-cash",
+        github: "https://github.com/Adarshkrtiwar",
         live: "https://due-cash.vercel.app/"
       },
       details: {
@@ -338,7 +338,7 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/ichat",
+        github: "https://github.com/Adarshkrtiwar",
         live: "https://ichat-1343.netlify.app/"
       },
       details: {
@@ -373,7 +373,7 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/phone-book",
+        github: "https://github.com/Adarshkrtiwar",
         live: "https://phone-b00k.vercel.app/"
       },
       details: {
@@ -408,7 +408,7 @@ export const projectPageData = {
         }
       ],
       links: {
-        github: "https://github.com/fazle-rabbi-dev/codes-wear",
+        github: "https://github.com/Adarshkrtiwar",
         live: "https://codes-wear2.vercel.app/"
       },
       details: {
@@ -433,7 +433,7 @@ export const projectPageData = {
       desc: "Goal-Galaxy is a beautifully crafted Todo-List app built with React-Native, Expo-Router, TailwindCSS and Appwrite. This app will help you manage your todos effectively with its simplicity in handling tasks.",
       icon: "https://raw.githubusercontent.com/fazle-rabbi-dev/Goal-Galaxy/main/assets/images/icon.png",
       date: "May 2024",
-      link: "https://github.com/fazle-rabbi-dev/Goal-Galaxy",
+      link: "https://github.com/Adarshkrtiwar",
       technologies: ["React-Native"]
     },
     {
@@ -442,7 +442,7 @@ export const projectPageData = {
       desc: "Evil Text is a text repeater app for android.",
       icon: "https://user-images.githubusercontent.com/71178740/216031683-c7a3f188-0225-484f-b333-08935174b70e.png",
       date: "January 2023",
-      link: "https://github.com/fazle-rabbi-dev/Evil-Text",
+      link: "https://github.com/Adarshkrtiwar",
       technologies: ["Java"]
     },
     {
@@ -451,7 +451,7 @@ export const projectPageData = {
       desc: "Random color generator app",
       icon: "https://user-images.githubusercontent.com/71178740/216031553-e06915af-0a27-4ac4-b4d6-3ae3f6419a04.png",
       date: "January 2023",
-      link: "https://github.com/fazle-rabbi-dev/Random-Color",
+      link: "https://github.com/Adarshkrtiwar",
       technologies: ["Java"]
     }
   ],
@@ -460,16 +460,16 @@ export const projectPageData = {
       id: 1,
       name: "create-swiftstart",
       desc: "Automate the setup of Vite-React & Next.js projects with a pre-designed boilerplate structure using create-swiftstart. This tool saves your time and provides a clean starting point for your React or Next.js applications.",
-      link: "https://github.com/fazle-rabbi-dev/create-swiftstart",
+      link: "https://github.com/Adarshkrtiwar",
       date: "October, 2023"
     },
     {
       id: 2,
       name: "generate-expressjs-app",
       desc: "Automate the setup of Express.js Api projects with a pre-designed boilerplate structure using generate-expressjs-app.This tool saves your time and provides a clean starting point for your express.js applications.",
-      link: "https://github.com/fazle-rabbi-dev/generate-expressjs-app",
+      link: "https://github.com/Adarshkrtiwar",
       date: "February, 2024"
     }
   ],
-  more_projects: "https://github.com/fazle-rabbi-dev?tab=repositories"
+  more_projects: "https://github.com/Adarshkrtiwar"
 };
